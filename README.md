@@ -62,7 +62,7 @@ Our services are fully online, providing convenience and flexibility. No matter 
 
 ## How It Works
 
-1. **Book a meeting**: Go to [Contacts](/contacts).
+1. **Book a meeting**: Go to [Contacts](/nritutor/contacts).
 2. **Tell Us more about your requirement**: Let us know a little more about requirement in a 15 minutes call.
 3. **Schedule your suitable time**: Book your schedules
 
@@ -81,4 +81,4 @@ Our services are fully online, providing convenience and flexibility. No matter 
 
 ## Ready to Get Started?
 Let us take the stress out of homework!  
-[Get Started Now](/contacts)
+[Get Started Now](/nritutor/contacts)
