@@ -2,7 +2,7 @@
 
 ### Welcome to Homework Help for Kids!
 
-At **Homework Buddy**, we understand how challenging it can be to balance your busy life while ensuring your kids get the support they need with their schoolwork. That's why we’re here to provide expert homework assistance, giving you the freedom to focus on your family, work, or even take that well-deserved break.
+At **TaskTutor**, we understand how challenging it can be to balance your busy life while ensuring your kids get the support they need with their schoolwork. That's why we’re here to provide expert homework assistance, giving you the freedom to focus on your family, work, or even take that well-deserved break.
 
 Our mission is simple:  
 **To make homework stress-free for both kids and parents.**
@@ -14,15 +14,6 @@ Here’s how we help:
 - **Convenient and Flexible**: Whether it’s during school nights or weekends, we’re available whenever you need us. 
 - **Personalized Support**: Every child learns differently. Our tutors provide tailored guidance based on your child's individual needs and learning style.
 
----
-
-#### The Perfect Homework Partner
-We know how important your child’s education is, but we also know you have other responsibilities. Whether you’re managing a household, a career, or simply need a moment to breathe, **Homework Buddy** ensures your child stays on track academically—while you get time to take care of what matters most.
-
-Need to plan a weekend getaway?  
-Have an important deadline to meet?  
-Or maybe you just want some quiet time?
-
 Whatever your plans, leave the homework to us, and enjoy your day with peace of mind knowing your child is in good hands.
 
 ---
@@ -33,7 +24,7 @@ Whatever your plans, leave the homework to us, and enjoy your day with peace of 
 - **Better Grades for Them**: Our tutors are dedicated to helping kids not just complete their homework, but truly understand the material, leading to better grades and confidence in their abilities.
 - **A Hassle-Free Experience**: With a seamless sign-up process, easy-to-use platform, and constant support, we make homework help as effortless as possible for both you and your child.
 
-![A family enjoying their day while Homework Buddy helps with homework](https://example.com/family-relaxing.jpg)
+![A family enjoying their day while Homework Tutor helps with homework](https://example.com/family-relaxing.jpg)
 
 ---
 
