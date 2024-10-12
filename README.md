@@ -1,7 +1,5 @@
 # We’ve Got the Homework, You’ve Got the Plans!
 
-### Welcome to Homework Help for Kids!
-
 At **TaskTutor**, we understand how challenging it can be to balance your busy life while ensuring your kids get the support they need with their schoolwork. That's why we’re here to provide expert homework assistance, giving you the freedom to focus on your family, work, or even take that well-deserved break.
 
 Our mission is simple:  
@@ -29,7 +27,6 @@ Whatever your plans, leave the homework to us, and enjoy your day with peace of 
 ---
 
 So why wait? Let us take the burden of homework off your plate, and give your child the guidance they need to succeed—all while you get to enjoy some much-needed time to yourself!
-
 
 ---
 
