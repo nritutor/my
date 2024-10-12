@@ -22,7 +22,7 @@ Whatever your plans, leave the homework to us, and enjoy your day with peace of 
 - **Better Grades for Them**: Our tutors are dedicated to helping kids not just complete their homework, but truly understand the material, leading to better grades and confidence in their abilities.
 - **A Hassle-Free Experience**: With a seamless sign-up process, easy-to-use platform, and constant support, we make homework help as effortless as possible for both you and your child.
 
-![A family enjoying their day while Homework Tutor helps with homework](https://example.com/family-relaxing.jpg)
+![A family enjoying their day while Homework Tutor helps with homework](https://github.com/user-attachments/assets/45f5a275-6e7b-4fc2-bec4-877c6e948645)
 
 ---
 
@@ -56,17 +56,17 @@ We offer tailored one-on-one tutoring sessions that help your kids master the su
 ### 🖥️ **Online, Anytime**
 Our services are fully online, providing convenience and flexibility. No matter the subject, we are here when you need us.
 
-![A tutor helping a child online with homework](https://example.com/online-tutor.jpg)
+![A_cheerful_scene_of_a_happy_family_enjoying_time_o](https://github.com/user-attachments/assets/4ad86dca-ecba-4891-8998-325a37304c73)
 
 ---
 
 ## How It Works
 
-1. **Sign Up**: Create an account in minutes.
-2. **Tell Us About the Homework**: Let us know the subject, grade level, and the help your child needs.
-3. **Relax!**: We handle the rest while you plan your day in peace.
+1. **Book a meeting**: Go to [Contacts](/contacts).
+2. **Tell Us more about your requirement**: Let us know a little more about requirement in a 15 minutes call.
+3. **Schedule your suitable time**: Book your schedules
 
-![A simple 3-step process illustration](https://example.com/3-step-process.jpg)
+![A simple 3-step process illustration](https://github.com/user-attachments/assets/73ccc019-302a-4f38-944b-dfcca0b589ae)
 
 ---
 
