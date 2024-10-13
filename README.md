@@ -4,7 +4,7 @@ At **Task Tutor**, we understand the challenges of balancing your busy life whil
 
 ---
 
-## ![We’ve Got the Homework, You’ve Got the Plans](https://github.com/user-attachments/assets/8e428a44-300b-44ce-b6db-4dd2c7645921)
+![We’ve Got the Homework, You’ve Got the Plans](https://github.com/user-attachments/assets/8e428a44-300b-44ce-b6db-4dd2c7645921)
 
 ---
 
@@ -23,7 +23,7 @@ Imagine this—no more after-school struggles, no more frantic last-minute homew
 
 ---
 
-## ![Happy family outdoors](https://github.com/user-attachments/assets/87c52711-5a64-4400-b636-5752a66d8f8e)
+![Happy family outdoors](https://github.com/user-attachments/assets/87c52711-5a64-4400-b636-5752a66d8f8e)
 
 
 ---
