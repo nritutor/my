@@ -1,6 +1,6 @@
 # We’ve Got the Homework, You’ve Got the Plans!
 
-At **Homework Tutor**, we understand the challenges of balancing your busy life while ensuring your kids get the support they need with their schoolwork. That's why we’re here to provide expert homework assistance, giving you the freedom to focus on your family, work, or even take that well-deserved break.
+At **Homework Tutor**, we understand the challenges of balancing your busy life while ensuring your kids get the support they need with their schoolwork.
 
 ---
 
