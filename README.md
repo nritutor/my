@@ -4,7 +4,7 @@ At **Homework Tutor**, we understand the challenges of balancing your busy life 
 
 ---
 
-## ![Family enjoying their time](https://github.com/user-attachments/assets/45f5a275-6e7b-4fc2-bec4-877c6e948645)
+## ![We’ve Got the Homework, You’ve Got the Plans](https://github.com/user-attachments/assets/8e428a44-300b-44ce-b6db-4dd2c7645921)
 
 ---
 
