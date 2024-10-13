@@ -42,9 +42,8 @@ Imagine this—no more after-school struggles, no more frantic last-minute homew
 ---
 
 # Ready to Get Started?
-<p>
+
 Let us take the stress out of homework!  
 Give your child the guidance they need to succeed, while you enjoy some much-needed time to yourself!  
 
 [**Get Started Now**](/nritutor/contacts)
-</p>
