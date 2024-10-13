@@ -1,6 +1,6 @@
 # We’ve Got the Homework, You’ve Got the Plans!
 
-At **Task Tutor**, we understand the challenges of balancing your busy life while ensuring your kids get the support they need with their schoolwork.
+At **Task Tutor**, we understand the challenges of balancing your busy life while ensuring your kids get the support they need with their schoolwork. That's why we’re here to provide expert homework assistance, giving you the freedom to focus on your family, work, or even take that well-deserved break.
 
 ![We’ve Got the Homework, You’ve Got the Plans](https://github.com/user-attachments/assets/8e428a44-300b-44ce-b6db-4dd2c7645921)
 
