@@ -2,9 +2,7 @@
 
 At **Task Tutor**, we understand the challenges of balancing your busy life while ensuring your kids get the support they need with their schoolwork.
 
-
 ![We’ve Got the Homework, You’ve Got the Plans](https://github.com/user-attachments/assets/8e428a44-300b-44ce-b6db-4dd2c7645921)
-
 
 ## Here’s how we help:
 
@@ -19,12 +17,7 @@ At **Task Tutor**, we understand the challenges of balancing your busy life whil
 **To make homework stress-free for both kids and parents.**  
 Imagine this—no more after-school struggles, no more frantic last-minute homework sessions. We take the load off your shoulders, so you can enjoy peace of mind while we guide your kids to academic success.
 
----
-
 ![Happy family outdoors](https://github.com/user-attachments/assets/87c52711-5a64-4400-b636-5752a66d8f8e)
-
-
----
 
 ## What Parents Are Saying
 
