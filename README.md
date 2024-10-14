@@ -23,7 +23,7 @@ Imagine this—no more after-school struggles, no more frantic last-minute homew
 
 ---
 
-![Happy family outdoors](https://github.com/user-attachments/assets/87c52711-5a64-4400-b636-5752a66d8f8e)
+![Happy family outdoors](https://github.com/user-attachments/assets/e289f905-eecc-4239-870d-4f0e5311d66a)
 
 ---
 
